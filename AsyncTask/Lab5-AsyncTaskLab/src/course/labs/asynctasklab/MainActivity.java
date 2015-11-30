@@ -83,6 +83,7 @@ public class MainActivity extends Activity implements SelectionListener,
 					// Process Twitter data taken from stored file
 		//			parseJSON(loadTweetsFromFile());
 //comment
+		//only change
 					// Enable user interaction
 					mIsInteractionEnabled = true;
 						
